@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rousan/no-more-anony-msg/develop/demo.gif" alt="Demo">
+  <img src="https://raw.githubusercontent.com/rousan/no-more-anony-msg/master/demo.gif" alt="Demo">
     <br>
     <br>
 </p>
@@ -19,9 +19,11 @@ you are done, the target recipient would be compelled to uninstall the app from 
 
 ## Installation
 
-### MacOS
+### For Stulish App
 
-Download the binary from here: [Download](https://github.com/rousan/no-more-anony-msg/raw/master/bin/hack-stulish-mac).
+#### MacOS
+
+Download the binary from here: [Download](https://github.com/rousan/no-more-anony-msg/raw/master/dist/hack-stulish-mac).
 
 Then run:
 
@@ -30,9 +32,9 @@ $ chmod +x ./hack-stulish-mac
 $ ./hack-stulish-mac -h
 ```
 
-### Linux
+#### Linux
 
-Download the binary from here: [Download](https://github.com/rousan/no-more-anony-msg/raw/master/bin/hack-stulish-linux-x64).
+Download the binary from here: [Download](https://github.com/rousan/no-more-anony-msg/raw/master/dist/hack-stulish-linux-x64).
 
 Then run:
 
@@ -41,9 +43,9 @@ $ chmod +x ./hack-stulish-linux-x64
 $ ./hack-stulish-linux-x64 -h
 ```
 
-### Windows
+#### Windows
 
-Download the binary from here: [Download](https://github.com/rousan/no-more-anony-msg/raw/master/bin/hack-stulish-linux-x86).
+Download the binary from here: [Download](https://github.com/rousan/no-more-anony-msg/raw/master/dist/hack-stulish-linux-x86.exe).
 
 Then run:
 
@@ -51,7 +53,13 @@ Then run:
 hack-stulish-linux-x86 -h
 ```
 
+### For Sarahah App
+
+[WIP]
+
 ## Usage
+
+### For Stulish App
 
 After downloading the binary, create a file named `message.txt` containing the messages separated by line:
 
@@ -71,8 +79,16 @@ $ ./hack-stulish-mac -u <target-username> -m ./message.txt
 
 ```
 
+Keep running it for some hours 😄.
+
+### For Sarahah App
+
+[WIP]
+
 ## Contributing
 
 Your PRs and stars are always welcome.
 
-Checkout the [CONTRIBUTING](https://github.com/rousan/sl/blob/master/CONTRIBUTING.md) guides.
+Checkout the [CONTRIBUTING](https://github.com/rousan/no-more-anony-msg/blob/master/CONTRIBUTING.md) guides.
+
+### Happy Hacking!
