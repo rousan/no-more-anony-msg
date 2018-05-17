@@ -45,7 +45,7 @@ $ ./hack-stulish-linux-x64 -h
 
 #### Windows
 
-Download the binary from here: [Download](https://github.com/rousan/no-more-anony-msg/raw/master/dist/hack-stulish-linux-x86.exe).
+Download the binary from here: [Download](https://github.com/rousan/no-more-anony-msg/raw/master/dist/hack-stulish-windows-x86.exe).
 
 Then run:
 
